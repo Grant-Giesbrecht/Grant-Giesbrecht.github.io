@@ -6,6 +6,8 @@ teaser: "Introduction to my 8-bit CPU projects"
 categories:
     - projects
 header:
+   title: Homemade CPU
+   background-color: "#EFC94C;"
    image_fullwidth: header_blinkenrechner.jpg
 ---
 
