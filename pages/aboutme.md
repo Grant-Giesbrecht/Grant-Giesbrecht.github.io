@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Hey, I'm Grant!"
 teaser: "About Me"
 header:

@@ -51,13 +51,8 @@
 #     url: "/design/no-header-but-image/"
 
 - title: PUBLICATIONS
-  url: "/documentation/"
+  url: "/publications/"
   side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
     
 - title: CV
   url: "/getting-started/"
