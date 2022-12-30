@@ -11,11 +11,11 @@ widget1:
   title: "Blog & Portfolio"
   url: 'http://Grant-Giesbrecht.github.io/aboutme/'
   image: widget-1-302x182.jpg
-  text: 'Thanks for visiting my homepage! If you\'d like to learn more about me and my goals, feel free to check out my about page.
+  text: 'Thanks for visiting my homepage! If youd like to learn more about me and my goals, feel free to check out my about page.'
 widget2:
   title: "Homebrew CPU Update"
   url: 'http://Grant-Giesbrecht.github.io/blinkenrechner/'
-  text: 'Here\' an overview of my homemade CPU project!'
+  text: 'Heres an overview of my homemade CPU project!'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://Grant-Giesbrecht.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Download Theme"
