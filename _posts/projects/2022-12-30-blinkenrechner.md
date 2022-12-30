@@ -11,7 +11,7 @@ header:
    image_fullwidth: header_blinkenrechner.jpg
 ---
 
-This is my homemade 8-bit CPU. Find out more my homemade CPU on my [Hackaday][https://hackaday.io/project/99893-blinkenrechner] page.
+This is my homemade 8-bit CPU. Find out more my homemade CPU on my [Hackaday](https://hackaday.io/project/99893-blinkenrechner) page.
 <!--more-->
 
 <div class="row">
