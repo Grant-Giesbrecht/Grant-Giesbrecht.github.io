@@ -15,7 +15,8 @@
 ------------------------------------------------------------------- */
 $swiss-red: #AA1111;
 $dark: #212228;
-$med-grey: #B1B2B5;
+$med-grey: #B1B2B5; 
+$mdk-grey: #808287; //Medium-dark
 $white: #FFFFFF;
 
 
@@ -86,7 +87,7 @@ $topbar-bg          : $topbar-bg-color;
 
 $topbar-dropdown-toggle-color: $ci-1;
 
-$topbar-link-color  : #000;
+$topbar-link-color  : $white;
 $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
