@@ -17,8 +17,8 @@ permalink: "/projects/"
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
-        <p>Website: <a href="https://phlow.de/">NSTX-U Beam Emission Spectroscopy</a></p>
+        <img src="{{ site.urlimg }}w7x.png" alt="">
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/bes/">NSTX-U Beam Emission Spectroscopy</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
