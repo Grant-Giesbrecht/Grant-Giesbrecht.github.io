@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Research Overview"
   url: 'https://grant-giesbrecht.github.io/projects/research summary'
-  image: IMG_0282.JPG
+  image: MEQALAC_Thumbnail.jpg
   text: 'Looking for the sparknotes version? Click here for an overview of my past and present research.'
 #
 # Use the call for action to show a button on the frontpage
