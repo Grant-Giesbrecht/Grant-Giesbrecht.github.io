@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Blog & Portfolio"
   url: 'http://Grant-Giesbrecht.github.io/aboutme/'
-  image: widget-1-302x182.jpg
+  image: AboutMe_Thumbnail.jpg
   text: 'Thanks for visiting my homepage! If youd like to learn more about me and my goals, feel free to check out my about page.'
 widget2:
   title: "Homebrew CPU Update"
