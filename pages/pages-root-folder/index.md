@@ -19,7 +19,7 @@ widget2:
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://Grant-Giesbrecht.github.io/images/blinken_thumbnail.png" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Research Overview"
-  url: 'https://grant-giesbrecht.github.io/projects/research summary'
+  url: 'https://grant-giesbrecht.github.io/projects/'
   image: MEQALAC_Thumbnail.jpg
   text: 'Looking for the sparknotes version? Click here for an overview of my past and present research.'
 #
