@@ -2,9 +2,10 @@
 layout: page-fullwidth
 title:  "Homebrew CPU"
 subheadline:  "An 8-bit Computer Processor Build from the Logic Gate Up"
-teaser: "Introduction to my 8-bit CPU projects"
+teaser: "Hobby Project"
 categories:
     - projects
+	- hobby-projects
 header:
    title: Homemade CPU
    background-color: "#EFC94C;"
