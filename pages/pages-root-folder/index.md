@@ -14,14 +14,14 @@ widget1:
   text: 'Thanks for visiting my homepage! If youd like to learn more about me and my goals, feel free to check out my about page.'
 widget2:
   title: "Homebrew CPU Update"
-  url: 'http://Grant-Giesbrecht.github.io/blinkenrechner/'
-  text: 'Heres an overview of my homemade CPU project!'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://Grant-Giesbrecht.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  url: 'https://Grant-Giesbrecht.github.io/projects/blinkenrechner/'
+  text: 'Heres an overview of my homemade CPU project.'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://Grant-Giesbrecht.github.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  title: "Research Overview"
+  url: 'https://grant-giesbrecht.github.io/projects/research summary'
+  image: IMG_0282.JPG
+  text: 'Looking for the sparknotes version? Click here for an overview of my past and present research.'
 #
 # Use the call for action to show a button on the frontpage
 #
