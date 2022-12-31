@@ -1,17 +1,17 @@
 - name: GitHub
-    url: http://github.com/Grant-Giesbrecht
-    class: icon-github
-    title: Code und mehr...
+  url: http://github.com/Grant-Giesbrecht
+  class: icon-github
+  title: Code und mehr...
 
 - name: GoogleScholar
-    url: https://scholar.google.com/citations?hl=en&user=0ClPzDYAAAAJ
-    class: icon-browser
-    title: Google Scholar profile
+  url: https://scholar.google.com/citations?hl=en&user=0ClPzDYAAAAJ
+  class: icon-browser
+  title: Google Scholar profile
 
 - name: Hackaday
-    url: https://hackaday.io/Grant.Giesbrecht
-    class: icon-code
-    title: Hackaday profile
+  url: https://hackaday.io/Grant.Giesbrecht
+  class: icon-code
+  title: Hackaday profile
 
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia
