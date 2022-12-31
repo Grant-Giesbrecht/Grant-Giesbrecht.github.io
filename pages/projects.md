@@ -12,7 +12,7 @@ permalink: "/projects/"
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
+        <img src="{{ site.urlimg }}mems_rf.png" alt="">
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/blinkenrechner/">Compact Linear Accelerator</a></p>
     </div><!-- /.medium-6.columns -->
 
