@@ -24,7 +24,7 @@ permalink: "/projects/"
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
+        <img src="{{ site.urlimg }}fom.png" alt="">
         <p>Website: <a href="https://andersneu.de/">RF Power Amplifier Figure of Merit</a></p>
     </div><!-- /.medium-4.columns -->
 
