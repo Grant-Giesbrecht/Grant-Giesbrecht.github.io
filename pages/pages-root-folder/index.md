@@ -11,7 +11,7 @@ widget1:
   title: "About Me"
   url: 'http://Grant-Giesbrecht.github.io/aboutme/'
   image: AboutMe_Thumbnail.jpg
-  text: "Thanks for visiting my homepage! If you'd like to learn more about me and my goals, feel free to check out my about page.""
+  text: "Thanks for visiting my homepage! If you'd like to learn more about me and my goals, feel free to check out my about page."
 widget2:
   title: "Homebrew CPU Update"
   url: 'https://Grant-Giesbrecht.github.io/projects/blinkenrechner/'
