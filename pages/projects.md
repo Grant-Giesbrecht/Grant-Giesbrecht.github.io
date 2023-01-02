@@ -39,6 +39,23 @@ permalink: "/projects/"
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}fom.png" alt="">
+        <p>Website: <a href="https://andersneu.de/">NASA Commercial Crew Launch Abort Analysis</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <!-- <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}hc_thumbnail.png" alt="">
+        <p>Website: <a href="https://mosonic.net/"><em>Hardware Control</em> Python Package</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}swimmer.png" alt="">
+        <p>Website: <a href="https://moritz.sauer.io/">Helical Flagellum Fluid Dynamics</a></p>
+    </div><!-- /.medium-4.columns --> -->
+</div><!-- /.row -->
+
 ## Other Hardware Projects
 
 <div class="row t60">
