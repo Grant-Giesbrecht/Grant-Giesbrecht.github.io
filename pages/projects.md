@@ -29,7 +29,7 @@ permalink: "/projects/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}hc_thumbnail.jpg" alt="">
+        <img src="{{ site.urlimg }}hc_thumbnail.png" alt="">
         <p>Website: <a href="https://mosonic.net/"><em>Hardware Control</em> Python Package</a></p>
     </div><!-- /.medium-4.columns -->
 
