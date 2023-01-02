@@ -34,7 +34,7 @@ permalink: "/projects/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
+        <img src="{{ site.urlimg }}swimmer.png" alt="">
         <p>Website: <a href="https://moritz.sauer.io/">Helical Flagellum Fluid Dynamics</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
