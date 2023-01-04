@@ -8,7 +8,7 @@ categories:
 header:
    title: hardwarecontrol
    background-color: "#EFC94C;"
-   image_fullwidth: _DSC5685.jpg
+   image_fullwidth: "_DSC5685.jpg"
 ---
 
 My work at Lawrence Berkeley National Lab was centered around developing a compact
@@ -25,4 +25,8 @@ The result was the <i>hardware_control</i>. Designed to provide reusable user in
 and Python-based instrument drivers, control programs can be written as simply as connecting
 the your instrument's driver to a UI. For example, if you had a Keysight 4000 series oscilloscope 
 you wished to use for data collection, you'd connect the Keysight 4000 series Python driver
-to the generic oscilloscope UI, all provieded by <i>Hardware Control</i>.
+to the generic oscilloscope UI, all provided by <i>Hardware Control</i>.
+
+This project resulted in a completely new software system for our experiment which 
+allowed us to collect data faster and more reliably, while also integrating the
+data collection process with our data analysis workflow. This 
