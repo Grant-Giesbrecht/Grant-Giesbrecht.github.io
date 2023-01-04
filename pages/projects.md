@@ -74,17 +74,17 @@ permalink: "/projects/"
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
+        <img src="{{ site.urlimg }}quark_thumbnail.png" alt="">
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/quark/">Quark Programming Language</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_mosonic.jpg" alt="">
+        <img src="{{ site.urlimg }}ddf_thumbnail.jpg" alt="">
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/ddf/">DDF File Format</a></p>
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-4 columns">
+    <!-- <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/cx/">CX Workflow Tool</a></p>
-    </div><!-- /.medium-4.columns -->
+    </div><!-- /.medium-4.columns --> -->
 </div><!-- /.row -->
