@@ -12,7 +12,7 @@ header:
 ---
 
 My work at Lawrence Berkeley National Lab was centered around developing a compact
-and affordable type of linear accelerator (linac) called a <span style="color:#AA1111">[MEQALAC](http://Grant-Giesbrecht.github.io/projects/meqalac/)</span>. Our accelerator
+and affordable type of linear accelerator (linac) called a [MEQALAC](http://Grant-Giesbrecht.github.io/projects/meqalac/). Our accelerator
 was part of a test stand which relied upon many different types of lab instruments 
 to run the linac and collect data. This system originally used NI LabView to synchronize
 everything, however this became increasingly impractical to extend as new instruments
@@ -29,7 +29,7 @@ to the generic oscilloscope UI, all provided by <i>Hardware Control</i>.
 
 This project resulted in a completely new software system for our experiment which 
 allowed us to collect data faster and more reliably, while also integrating the
-data collection process with our data analysis workflow. The project resulted in a <span style="color:#AA1111">[publication](https://joss.theoj.org/papers/10.21105/joss.02688)</span>
+data collection process with our data analysis workflow. The project resulted in a [publication](https://joss.theoj.org/papers/10.21105/joss.02688)
 in the Journal of Open Source Software, an academic journal designed to improve the quality of 
 published software through peer review. It was also a very personally satisfying
 project to work on, as it was my first opportunity to professionally develop software full time in Python.
