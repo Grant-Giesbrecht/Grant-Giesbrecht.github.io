@@ -79,7 +79,7 @@ permalink: "/projects/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}ddf_thumbnail.jpg" alt="">
+        <img src="{{ site.urlimg }}ddf_thumbnail.png" alt="">
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/ddf/">DDF File Format</a></p>
     </div><!-- /.medium-4.columns -->
 
