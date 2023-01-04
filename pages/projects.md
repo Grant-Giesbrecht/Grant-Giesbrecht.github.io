@@ -13,7 +13,7 @@ permalink: "/projects/"
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}mems_rf.png" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/blinkenrechner/">Compact Linear Accelerator</a></p>
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/meqalac/">Compact Linear Accelerator</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
@@ -25,24 +25,24 @@ permalink: "/projects/"
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}fom.png" alt="">
-        <p>Website: <a href="https://andersneu.de/">RF Power Amplifier Figure of Merit</a></p>
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/fom/">RF Power Amplifier Figure of Merit</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}hc_thumbnail.png" alt="">
-        <p>Website: <a href="https://mosonic.net/"><em>Hardware Control</em> Python Package</a></p>
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/hardwarecontrol/"><em>Hardware Control</em> Python Package</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}swimmer.png" alt="">
-        <p>Website: <a href="https://moritz.sauer.io/">Helical Flagellum Fluid Dynamics</a></p>
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/bacteria/">Helical Flagellum Fluid Dynamics</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}fom.png" alt="">
-        <p>Website: <a href="https://andersneu.de/">NASA Commercial Crew Launch Abort Analysis</a></p>
+        <img src="{{ site.urlimg }}nasa_thumbnail.png" alt="">
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/nasa/">NASA Commercial Crew Launch Abort Analysis</a></p>
     </div><!-- /.medium-4.columns -->
 
     <!-- <div class="medium-4 columns">
@@ -60,31 +60,31 @@ permalink: "/projects/"
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/blinkenrechner/">Homebrew CPU</a></p>
+        <img src="{{ site.urlimg }}blinken_thumbnail.png" alt="">
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/blinkenrechner/">Homebrew 8-bit CPU</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_mosonic.jpg" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/blinkenrechner/">3-Channel Audio Equalizer</a></p>
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/equalizer/">3-Channel Audio Equalizer</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
-## Software Projects
+## Other Software Projects
 
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
-        <p>Website: <a href="https://andersneu.de/">Quark Programming Language</a></p>
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/quark/">Quark Programming Language</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_mosonic.jpg" alt="">
-        <p>Website: <a href="https://mosonic.net/">DDF File Format</a></p>
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/ddf/">DDF File Format</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
-        <p>Website: <a href="https://moritz.sauer.io/">CX Workflow Tool</a></p>
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/cx/">CX Workflow Tool</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
