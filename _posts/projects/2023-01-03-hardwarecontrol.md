@@ -8,7 +8,7 @@ categories:
 header:
    title: hardwarecontrol
    background-color: "#EFC94C;"
-   image_fullwidth: header_blinkenrechner.jpg
+   image_fullwidth: "header_homepage_13.jpg"
 ---
 
 My work at Lawrence Berkeley National Lab was centered around developing a compact
