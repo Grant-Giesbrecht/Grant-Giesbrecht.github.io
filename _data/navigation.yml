@@ -20,6 +20,8 @@
     url: "/projects/fom/"
   - title: "Hardware Control"
     url: "/projects/hardwarecontrol/"
+  - title: "NASA Commercial Crew Internship"
+    url: "/projects/nasa/"
   - title: "DDF Format"
     url: "/projects/ddf/"
   - title: "Quark Programming Language"

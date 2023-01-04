@@ -6,7 +6,7 @@ teaser: "Research Project"
 categories:
     - projects
 header:
-   title: hardwarecontrol
+   title: Hardware Control
    background-color: "#EFC94C;"
    image_fullwidth: "header_homepage_13.jpg"
 ---
@@ -32,7 +32,9 @@ allowed us to collect data faster and more reliably, while also integrating the
 data collection process with our data analysis workflow. The project resulted in a [publication](https://joss.theoj.org/papers/10.21105/joss.02688)
 in the Journal of Open Source Software, an academic journal designed to improve the quality of 
 published software through peer review. It was also a very personally satisfying
-project to work on, as it was my first opportunity to professionally develop software full time in Python.
+project to work on. Not only my first opportunity to professionally develop software full time in Python, 
+but I have been able to use it personally at home; to this day, I still use <i>Hardware Control</i>
+to automate processes on my home lab bench!
 
 <div class="row">
     <div class="medium-8 columns t30">
