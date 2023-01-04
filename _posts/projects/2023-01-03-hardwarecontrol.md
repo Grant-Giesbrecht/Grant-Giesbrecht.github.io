@@ -8,7 +8,7 @@ categories:
 header:
    title: hardwarecontrol
    background-color: "#EFC94C;"
-   image_fullwidth: "_DSC5685.jpg"
+   image_fullwidth: header_blinkenrechner.jpg
 ---
 
 My work at Lawrence Berkeley National Lab was centered around developing a compact
@@ -33,3 +33,15 @@ data collection process with our data analysis workflow. The project resulted in
 in the Journal of Open Source Software, an academic journal designed to improve the quality of 
 published software through peer review. It was also a very personally satisfying
 project to work on, as it was my first opportunity to professionally develop software full time in Python.
+
+<div class="row">
+    <div class="medium-8 columns t30">
+    <img src="{{ site.urlimg }}gallery-example-7.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
