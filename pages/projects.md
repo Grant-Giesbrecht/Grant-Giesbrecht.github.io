@@ -65,7 +65,7 @@ permalink: "/projects/"
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_mosonic.jpg" alt="">
+        <img src="{{ site.urlimg }}geq_thumbnail.png" alt="">
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/equalizer/">3-Channel Audio Equalizer</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
