@@ -29,4 +29,7 @@ to the generic oscilloscope UI, all provided by <i>Hardware Control</i>.
 
 This project resulted in a completely new software system for our experiment which 
 allowed us to collect data faster and more reliably, while also integrating the
-data collection process with our data analysis workflow. This 
+data collection process with our data analysis workflow. The project resulted in a [publication](https://joss.theoj.org/papers/10.21105/joss.02688)
+in the Journal of Open Source Software, an academic journal designed to improve the quality of 
+published software through peer review. It was also a very personally satisfying
+project to work on, as it was my first opportunity to professionally develop software full time in Python.
