@@ -1,7 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "Hardware Control"
-subheadline:  "An Instrument Automation Package written in Python"
+title:  "An Instrument Automation Package written in Python"
 teaser: "Research Project"
 categories:
     - projects
