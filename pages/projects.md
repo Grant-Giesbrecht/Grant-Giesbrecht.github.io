@@ -86,5 +86,5 @@ permalink: "/projects/"
     <!-- <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/cx/">CX Workflow Tool</a></p>
-    </div><!-- /.medium-4.columns --> -->
+    </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
