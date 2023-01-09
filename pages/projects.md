@@ -47,7 +47,7 @@ permalink: "/projects/"
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}pa_thumbnail.png" alt="">
-        <p>Website: <a href="https://mosonic.net/"><em>RF PA Portfolio</em> Python Package</a></p>
+        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/paportfolio/">RF PA Portfolio</a></p>
     </div><!-- /.medium-4.columns -->
 
     <!-- <div class="medium-4 columns">
