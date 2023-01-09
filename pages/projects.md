@@ -15,7 +15,7 @@ permalink: "/projects/"
         <img src="{{ site.urlimg }}mems_rf.png" alt="">
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/meqalac/">Compact Linear Accelerator</a></p>
     </div><!-- /.medium-6.columns -->
-
+    
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}w7x.png" alt="">
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/bes/">NSTX-U Beam Emission Spectroscopy</a></p>
@@ -45,9 +45,9 @@ permalink: "/projects/"
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/nasa/">NASA Commercial Crew Launch Abort Analysis</a></p>
     </div><!-- /.medium-4.columns -->
 
-    <!-- <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}hc_thumbnail.png" alt="">
-        <p>Website: <a href="https://mosonic.net/"><em>Hardware Control</em> Python Package</a></p>
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}pa_thumbnail.png" alt="">
+        <p>Website: <a href="https://mosonic.net/"><em>RF PA Portfolio</em> Python Package</a></p>
     </div><!-- /.medium-4.columns -->
 
     <!-- <div class="medium-4 columns">
@@ -73,18 +73,14 @@ permalink: "/projects/"
 ## Other Software Projects
 
 <div class="row t30">
-    <div class="medium-4 columns">
+    <div class="medium-6 columns">
         <img src="{{ site.urlimg }}quark_thumbnail.png" alt="">
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/quark/">Quark Programming Language</a></p>
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-4 columns">
+    <div class="medium-6 columns">
         <img src="{{ site.urlimg }}ddf_thumbnail.png" alt="">
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/ddf/">DDF File Format</a></p>
     </div><!-- /.medium-4.columns -->
 
-    <!-- <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/cx/">CX Workflow Tool</a></p>
-    </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
