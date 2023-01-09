@@ -60,7 +60,7 @@ permalink: "/projects/"
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}blinken_thumbnail.png" alt="">
+        <a href="http://Grant-Giesbrecht.github.io/projects/blinkenrechner/"><img src="{{ site.urlimg }}blinken_thumbnail.png" alt=""></a>
         <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/blinkenrechner/">Homebrew 8-bit CPU</a></p>
     </div><!-- /.medium-6.columns -->
 
