@@ -26,14 +26,9 @@ the your instrument's driver to a UI. For example, if you had a Keysight 4000 se
 you wished to use for data collection, you'd connect the Keysight 4000 series Python driver
 to the generic oscilloscope UI, all provided by <i>Hardware Control</i>.
 
-This project resulted in a completely new software system for our experiment which 
-allowed us to collect data faster and more reliably, while also integrating the
-data collection process with our data analysis workflow. The project resulted in a [publication](https://joss.theoj.org/papers/10.21105/joss.02688)
-in the Journal of Open Source Software, an academic journal designed to improve the quality of 
-published software through peer review. It was also a very personally satisfying
-project to work on. Not only my first opportunity to professionally develop software full time in Python, 
-but I have been able to use it personally at home; to this day, I still use <i>Hardware Control</i>
-to automate processes on my home lab bench!
+This project resulted in a completely new software system for our experiment which allowed us to collect data faster and more reliably, while also integrating the data collection process with our data analysis workflow. The project resulted in a [publication](https://joss.theoj.org/papers/10.21105/joss.02688) in the Journal of Open Source Software, an academic journal designed to improve the quality of published software through peer review. It was also a very personally satisfying project to work on. Not only my first opportunity to professionally develop software full time in Python, but I have been able to use it personally at home; to this day, I still use <i>Hardware Control</i> to automate processes on my home lab bench!
+
+If you'd like to give <i>Hardware Control</i> a try, you can get started by checking out its [documentation](https://hardware-control.readthedocs.io/en/latest/index.html), or jump right in by installing it through pip.
 
 <div class="row">
     <div class="medium-8 columns t30">
