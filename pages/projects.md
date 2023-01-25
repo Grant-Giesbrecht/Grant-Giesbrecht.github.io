@@ -61,12 +61,10 @@ permalink: "/projects/"
 <div class="row t60">
     <div class="medium-6 columns b30">
         <a href="http://Grant-Giesbrecht.github.io/projects/blinkenrechner/"><img src="{{ site.urlimg }}blinken_thumbnail.png" alt=""></a>
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/blinkenrechner/">Homebrew 8-bit CPU</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}geq_thumbnail.png" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/equalizer/">3-Channel Audio Equalizer</a></p>
+        <a href="http://Grant-Giesbrecht.github.io/projects/equalizer/"><img src="{{ site.urlimg }}geq_thumbnail.png" alt=""></a>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
@@ -74,13 +72,11 @@ permalink: "/projects/"
 
 <div class="row t30">
     <div class="medium-6 columns">
-        <img src="{{ site.urlimg }}quark_thumbnail.png" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/quark/">Quark Programming Language</a></p>
+        <a href="http://Grant-Giesbrecht.github.io/projects/quark/"><img src="{{ site.urlimg }}quark_thumbnail.png" alt=""></a>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-6 columns">
-        <img src="{{ site.urlimg }}ddf_thumbnail.png" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/ddf/">DDF File Format</a></p>
+        <a href="http://Grant-Giesbrecht.github.io/projects/ddf/"><img src="{{ site.urlimg }}ddf_thumbnail.png" alt=""></a>
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
