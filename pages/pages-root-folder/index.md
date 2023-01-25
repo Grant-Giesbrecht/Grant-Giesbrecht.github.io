@@ -22,6 +22,11 @@ widget3:
   url: 'https://grant-giesbrecht.github.io/projects/'
   image: MEQALAC_Thumbnail.jpg
   text: 'Looking for the sparknotes version? Click here for an overview of my past and present research.'
+widget4:
+   title: "RF Power Amplifier Figure of Merit"
+   url: 'https://grant-giesbrecht.github.io/projects/fom/'
+	image: fom.png
+   text: 'While earning my masters I developed a system of figures of merit to benefit designing RF power amplifiers.'
 #
 # Use the call for action to show a button on the frontpage
 #
