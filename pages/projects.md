@@ -40,7 +40,7 @@ permalink: "/projects/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <a href="http://Grant-Giesbrecht.github.io/projects/paportforlio/"><img src="{{ site.urlimg }}pa_thumbnail.png" alt=""></a>
+        <a href="http://Grant-Giesbrecht.github.io/projects/paportfolio/"><img src="{{ site.urlimg }}pa_thumbnail.png" alt=""></a>
     </div><!-- /.medium-4.columns -->
 
     <!-- <div class="medium-4 columns">
