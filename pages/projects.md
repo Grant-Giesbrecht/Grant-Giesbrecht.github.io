@@ -12,46 +12,39 @@ permalink: "/projects/"
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}mems_rf.png" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/meqalac/">Compact Linear Accelerator</a></p>
+        <a href="http://Grant-Giesbrecht.github.io/projects/meqalac/"><img src="{{ site.urlimg }}mems_rf.png" alt=""></a>
     </div><!-- /.medium-6.columns -->
     
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}w7x.png" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/bes/">NSTX-U Beam Emission Spectroscopy</a></p>
+        <a href="http://Grant-Giesbrecht.github.io/projects/bes/"><img src="{{ site.urlimg }}w7x.png" alt=""></a>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}fom.png" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/fom/">RF Power Amplifier Figure of Merit</a></p>
+        <a href="http://Grant-Giesbrecht.github.io/projects/fom/"><img src="{{ site.urlimg }}fom.png" alt=""></a>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}hc_thumbnail.png" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/hardwarecontrol/"><em>Hardware Control</em> Python Package</a></p>
+        <a href="http://Grant-Giesbrecht.github.io/projects/hardwarecontrol/"><img src="{{ site.urlimg }}hc_thumbnail.png" alt=""></a>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}swimmer.png" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/bacteria/">Helical Flagellum Fluid Dynamics</a></p>
+        <a href="http://Grant-Giesbrecht.github.io/projects/bacteria/"><img src="{{ site.urlimg }}swimmer.png" alt=""></a>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}nasa_thumbnail.png" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/nasa/">NASA Commercial Crew Launch Abort Analysis</a></p>
+        <a href="http://Grant-Giesbrecht.github.io/projects/nasa/"><img src="{{ site.urlimg }}nasa_thumbnail.png" alt=""></a>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}pa_thumbnail.png" alt="">
-        <p>Website: <a href="http://Grant-Giesbrecht.github.io/projects/paportfolio/">RF PA Portfolio</a></p>
+        <a href="http://Grant-Giesbrecht.github.io/projects/paportforlio/"><img src="{{ site.urlimg }}pa_thumbnail.png" alt=""></a>
     </div><!-- /.medium-4.columns -->
 
     <!-- <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}swimmer.png" alt="">
+        <a href="http://Grant-Giesbrecht.github.io/projects/blinkenrechner/"><img src="{{ site.urlimg }}swimmer.png" alt="">
         <p>Website: <a href="https://moritz.sauer.io/">Helical Flagellum Fluid Dynamics</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
