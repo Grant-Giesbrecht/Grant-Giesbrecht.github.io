@@ -30,14 +30,14 @@ This project resulted in a completely new software system for our experiment whi
 
 If you'd like to give <i>Hardware Control</i> a try, you can get started by checking out its [documentation](https://hardware-control.readthedocs.io/en/latest/index.html), or jump right in by installing it through [pip](https://hardware-control.readthedocs.io/en/latest/installation.html).
 
-<div class="row">
+<!--<div class="row">
     <div class="medium-8 columns t30">
     <img src="{{ site.urlimg }}gallery-example-7.jpg" alt="">
-    </div><!-- /.medium-8.columns -->
+    </div>
 
     <div class="medium-4 columns t30">
       <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
       <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
+    </div>
 
-</div><!-- /.row -->
+</div> /.row -->
