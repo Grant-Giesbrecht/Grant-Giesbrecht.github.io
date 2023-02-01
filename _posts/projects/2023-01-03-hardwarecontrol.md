@@ -11,7 +11,7 @@ header:
 ---
 
 My work at Lawrence Berkeley National Lab was centered around developing a compact
-and affordable type of linear accelerator (linac) called a [MEQALAC](http://Grant-Giesbrecht.github.io/projects/meqalac/). Our accelerator
+and affordable type of linear accelerator (linac) called a [MEQALAC](http://grantgiesbrecht.com/projects/meqalac/). Our accelerator
 was part of a test stand which relied upon many different types of lab instruments 
 to run the linac and collect data. This system originally used NI LabView to synchronize
 everything, however this became increasingly impractical to extend as new instruments

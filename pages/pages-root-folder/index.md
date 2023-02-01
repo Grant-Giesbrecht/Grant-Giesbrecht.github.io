@@ -9,22 +9,22 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "About Me"
-  url: 'http://Grant-Giesbrecht.github.io/aboutme/'
+  url: 'http://grantgiesbrecht.com/aboutme/'
   image: AboutMe_Thumbnail.jpg
   text: "Thanks for visiting my homepage! If you'd like to learn more about me and my goals, feel free to check out my about page."
 widget2:
   title: "Homebrew CPU Update"
-  url: 'https://Grant-Giesbrecht.github.io/projects/blinkenrechner/'
+  url: 'https://grantgiesbrecht.com/projects/blinkenrechner/'
   text: "My absurd but hopefully interesting hobby project has been to build a computer processor from logic gates. The project has expanded into a fully functioning homebrew 8-bit computer. Checkout the overview video above, or use the button below to see it's project page!"
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://Grant-Giesbrecht.github.io/images/blinken_vid_thumbnail.png" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://grantgiesbrecht.com/images/blinken_vid_thumbnail.png" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Research Overview"
-  url: 'https://grant-giesbrecht.github.io/projects/'
+  url: 'https://grantgiesbrecht.com/projects/'
   image: MEQALAC_Thumbnail.jpg
   text: 'Looking for the sparknotes version? Click here for an overview of my past and present research.'
 widget4:
   title: "RF Power Amplifier Figure of Merit"
-  url: 'https://grant-giesbrecht.github.io/projects/fom/'
+  url: 'https://grantgiesbrecht.com/projects/fom/'
   image: fom.png
   text: 'While earning my masters I developed a system of figures of merit to benefit designing RF power amplifiers.'
   
