@@ -7,7 +7,7 @@ categories:
 header:
    title: Hardware Control
    background-color: "#EFC94C;"
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "hc_header.jpg"
 ---
 
 My work at Lawrence Berkeley National Lab was centered around developing a compact
