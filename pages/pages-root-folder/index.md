@@ -40,8 +40,8 @@ widget4:
 #
 
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://github.com/Grant-Giesbrecht/
+  text: View my work on GitHub
   style: alert
 permalink: /index.html
 
