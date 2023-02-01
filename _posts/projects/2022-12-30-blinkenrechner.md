@@ -19,18 +19,17 @@ Although the project has evolved considerably over the years, the core goals hav
 <ul>
     <li>Build a functional computer around a homemade 8-bit CPU. </li>
     <li>Enough computational power to serve as a basic calculator. </li>
+    <li>Give the computer flash memory and a USB programming interface to support long and sophisticated programs.</li>
     <li>Build the CPU primarily from 7400 series logic gates. Expections to this rule include anything that would bottleneck the CPU if made only from logic gates, and isn't inherently CPU-related. Primarily this includes:
         <ul>
             <li><b>Memory:</b>To make the computer interesting, I need plenty of memory. Building my own RAM or some form of non-volitile memory from scratch isn't the point of this project. I use lots of COTS RAM, flash, and EEPROM.</li>
-            <li></li>
+            <li><b>Flash Interface:</b>Flash memory is much more complicated to interface with than RAM or EEPROM due to the software data protection (SDP) and chip protection protocols. Developing a flash module that can easily communicate with my CPU and effectively protect its data is complicated. I use a ATMega microcontroller to feed SDP codes to the flash, as the CPU commands. Even with the microcontroller, this is still a complicated a pretty cool project worth checking out.</li>
+            <li><b>USB Interface:</b>Developing a USB interface from scratch is outside the scope of this project. I use an Arduino and its built-in USB interface to upload data to and from my homemade computer and my laptop.</li>
         </ul>
     </li>
-    <li>Give the computer flash memory and a USB programming interface to support long and sophisticated programs.</li>
-* 
-* 
-* 
- * 
 <ul>
+
+
 
 This is my homemade 8-bit CPU. Find out more my homemade CPU on my [Hackaday](https://hackaday.io/project/99893-blinkenrechner) page.
 <!--more-->
