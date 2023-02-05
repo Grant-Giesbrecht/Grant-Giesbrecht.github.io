@@ -30,7 +30,7 @@ Although the project has evolved considerably over the years, the core goals hav
 </ul>
 The current interation of my CPU is the third. A top level overview of its features include:
 <ul>
-    <li><b>16-bit address bus</b> for 32KB of memory both in flash and RAM. This can be expanded to 64K of RAM due to two independently addressible RAM modules, and 128K of flash through four flash partitions.</li>
+    <li><b>16-bit address bus</b> for 64KB of memory both in flash and RAM. This can be expanded to 128K of RAM due to two independently addressible RAM modules, and 256K of flash through four flash partitions. Note: Each flash module stores 128 KB, but only half can be accessed at any given time.</li>
     <li>Carry and zero flags for <b>condition operations</b>.</li>
     <li><b>Timer and keyboard interrupts.</b></li>
     <li>Lots of <b>diagnostics blinkenlights</b> to see data move through the computer.</li>
