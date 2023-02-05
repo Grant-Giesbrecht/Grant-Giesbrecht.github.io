@@ -54,11 +54,11 @@ All of the CPUs connections run into the system board. The system board is the c
 <!-- Show system board and maybe how the connectors match up? -->
 <div class="row">
     <div class="medium-6 columns t30">
-    <img src="{{ site.urlimg }}fom1.png" alt="">
+    <img src="{{ site.urlimg }}blink_fig3.png" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-6 columns t30">
-      <img src="{{ site.urlimg }}fom2.png" alt="">
+      <img src="{{ site.urlimg }}blink_fig4.png" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
