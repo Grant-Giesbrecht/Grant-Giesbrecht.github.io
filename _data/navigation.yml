@@ -68,17 +68,19 @@
 - title: PUBLICATIONS
   url: "/publications/"
   side: left
-    
+
+# TODO: Hiding CV page until I can give it proper attention   
 # - title: CV
 #  url: "/getting-started/"
 #  side: left
 
-- title: BLOG
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+# TODO: Hiding Blog page until I can give it proper attention
+# - title: BLOG
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 - title: "SEARCH"
   url: "/search/"
