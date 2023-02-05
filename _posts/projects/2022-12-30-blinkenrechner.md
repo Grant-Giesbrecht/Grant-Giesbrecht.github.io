@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title:  "Homebrew CPU"
 subheadline:  "An 8-bit Computer Processor Build from the Logic Gate Up"
-teaser: "Hobby Project"
+teaser: "Independent Project"
 categories:
     - projects
 header:
@@ -64,7 +64,7 @@ All of the CPUs connections run into the system board. The system board is the c
 </div><!-- /.row -->
 
 Here you can see some of the other modules connected to the system board, such as RAM, flash memory controllers, and the computer's clock. Many homebrew computers use a crystal or 555 timer as their clock, so you may be surprised to see how complex my design's clock is. The reason for this is, in order to provide many useful debugging features and an adjustable clock speed for maximizing CPU performance, this clock is a basic waveform generator:
-* The clock speed is adjustable between `10 Hz and 4 MHz` with over 1 million steps inbetween.
+* The clock speed is adjustable between 2.8 Hz and 4 MHz with over 1 million steps inbetween.
 * It also provides an optional duty cycle correction circuit to enforce a 50% duty cycle. 
 * It offers a single pulse mode to facilitate clocking through each step of an instruction cycle individually.
 * It also offers a burst mode to allowing a programmable number of pulses to be released on one trigger ulse, allowing entire instructions to be clocked with one trigger pulse. 
@@ -72,7 +72,7 @@ Here you can see some of the other modules connected to the system board, such a
 * It offers a digital readout signal so the current set frequency can be displayed on 7-segment displays.
 * All of the clock's features are controlled from the computer's front panel, allowing seamless control of the computer's clock.
 
-This is my homemade 8-bit CPU. Find out more my homemade CPU on my [Hackaday](https://hackaday.io/project/99893-blinkenrechner) page.
+There's a lot more to this project than I can fit in one article. You can find out more my homemade CPU on my [Hackaday](https://hackaday.io/project/99893-blinkenrechner) page.
 <!--more-->
 
 <div class="row">
@@ -95,4 +95,4 @@ This is my homemade 8-bit CPU. Find out more my homemade CPU on my [Hackaday](ht
 
 
 
- [1]: 
+
