@@ -17,7 +17,7 @@ slogan: 'A Flexible Theme for Jekyll'
 description: "I'm a PhD student at the University of Colorado Boulder with a background in plasma physics. I currently study RF electronics, with the goal of applying my skillset to advancing fusion energy."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://grantgiesbrecht.com/">Grant</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.'
+credits: '<p>Created with &hearts; by <a href="http://grantgiesbrecht.com/">Grant</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and hosted on <a href="https://pages.github.com">GitHub Pages</a>.'
 
 # Main author of the website
 # See > authors.yml
