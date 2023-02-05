@@ -69,9 +69,9 @@
   url: "/publications/"
   side: left
     
-- title: CV
-  url: "/getting-started/"
-  side: left
+# - title: CV
+#  url: "/getting-started/"
+#  side: left
 
 - title: BLOG
   url: "/blog/"
