@@ -10,7 +10,7 @@
   url: "/projects/"
   side: left
   dropdown:
-  - title: "WIP Homebrew CPU"
+  - title: "Homebrew CPU"
     url: "/projects/blinkenrechner/"
   - title: "MEQALAC Accelerator"
     url: "/projects/meqalac/"
@@ -24,11 +24,11 @@
     url: "/projects/nasa/"
   - title: "DDF Format"
     url: "/projects/ddf/"
-  - title: "WIP Quark Programming Language"
+  - title: "Quark Programming Language"
     url: "/projects/quark/"
-  - title: "WIP Robotic Swimmer"
+  - title: "Robotic Swimmer"
     url: "/projects/bacteria"
-  - title: "WIP 3-Channel Equalizer"
+  - title: "3-Channel Equalizer"
     url: "/projects/equalizer/"
   
   # - title: "Post-Left-Sidebar"
