@@ -77,15 +77,15 @@ This is my homemade 8-bit CPU. Find out more my homemade CPU on my [Hackaday](ht
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+    <img src="{{ site.urlimg }}blink_fig5.png" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
+      <img src="{{ site.urlimg }}blink_fig6.png" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
+      <img src="{{ site.urlimg }}blink_fig7.png" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
