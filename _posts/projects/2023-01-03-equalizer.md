@@ -7,7 +7,7 @@ categories:
 header:
    title: 3-Channel Audio Equalizer
    background-color: "#EFC94C;"
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "france_header.png"
 ---
 
 # title: Audio Control at your Fingertips
