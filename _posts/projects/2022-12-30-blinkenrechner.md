@@ -40,11 +40,11 @@ The CPU is built on two 30x30 cm PCBs that are attached back-to-back, providing 
 <!-- Show front and back of CPU here -->
 <div class="row">
     <div class="medium-6 columns t30">
-    <img src="{{ site.urlimg }}fom1.png" alt="">
+    <img src="{{ site.urlimg }}blink_fig1.png" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-6 columns t30">
-      <img src="{{ site.urlimg }}fom2.png" alt="">
+      <img src="{{ site.urlimg }}blink_fig2.png" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
