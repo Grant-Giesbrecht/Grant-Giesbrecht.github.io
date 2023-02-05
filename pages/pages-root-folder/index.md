@@ -13,13 +13,10 @@ widget1:
   image: AboutMe_Thumbnail.jpg
   text: "Thanks for visiting my homepage! If you'd like to learn more about me and my goals, feel free to check out my about page."
 widget2:
-  title: "RF Power Amplifier Figure of Merit"
-  url: 'https://grantgiesbrecht.com/projects/fom/'
-    image: fom.png
-  text: 'While earning my masters I developed a system of figures of merit to benefit designing RF power amplifiers.'
-# widget2:
-#  title: "Homebrew CPU Update"
-#  url: 'https://grantgiesbrecht.com/projects/blinkenrechner/'
+  title: "Homebrew CPU Update"
+  url: 'https://grantgiesbrecht.com/projects/blinkenrechner/'
+  text: "My absurd but hopefully interesting hobby project has been to build a computer processor from logic gates. The project has expanded into a fully functioning homebrew 8-bit computer."
+  image: thumbnail_blinkenrechner.png
 #  text: "My absurd but hopefully interesting hobby project has been to build a computer processor from logic gates. The project has expanded into a fully functioning homebrew 8-bit computer. Checkout the overview video above, or use the button below to see it's project page!"
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://grantgiesbrecht.com/images/blinken_vid_thumbnail.png" width="302" height="182" alt=""/></a>'
 widget3:
@@ -27,11 +24,11 @@ widget3:
   url: 'https://grantgiesbrecht.com/projects/'
   image: MEQALAC_Thumbnail.jpg
   text: 'Looking for the sparknotes version? Click here for an overview of my past and present research.'
-# widget4:
-#  title: "RF Power Amplifier Figure of Merit"
-#  url: 'https://grantgiesbrecht.com/projects/fom/'
-#  image: fom.png
-#  text: 'While earning my masters I developed a system of figures of merit to benefit designing RF power amplifiers.'
+widget4:
+  title: "RF Power Amplifier Figure of Merit"
+  url: 'https://grantgiesbrecht.com/projects/fom/'
+  image: fom.png
+  text: 'While earning my masters I developed a system of figures of merit to benefit designing RF power amplifiers.'
   
 #
 # Use the call for action to show a button on the frontpage
